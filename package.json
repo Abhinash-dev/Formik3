@@ -1,7 +1,7 @@
 {
-  "name": "formik",
+  "name": "Formik3",
   "version": "0.1.0",
-  "homepage": "https://Abhinash-dev.github.io/formik2.github.io/",
+  "homepage": "https://Abhinash-dev.github.io/Formik3",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
@@ -22,7 +22,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
