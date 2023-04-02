@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abhinash-dev/Formik3/static/css/main.7a80cf02.css",
+    "main.js": "/Abhinash-dev/Formik3/static/js/main.560d93d3.js",
+    "static/js/787.4e40a68b.chunk.js": "/Abhinash-dev/Formik3/static/js/787.4e40a68b.chunk.js",
+    "index.html": "/Abhinash-dev/Formik3/index.html",
+    "main.7a80cf02.css.map": "/Abhinash-dev/Formik3/static/css/main.7a80cf02.css.map",
+    "main.560d93d3.js.map": "/Abhinash-dev/Formik3/static/js/main.560d93d3.js.map",
+    "787.4e40a68b.chunk.js.map": "/Abhinash-dev/Formik3/static/js/787.4e40a68b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a80cf02.css",
+    "static/js/main.560d93d3.js"
+  ]
+}
